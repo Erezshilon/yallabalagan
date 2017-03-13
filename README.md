@@ -1,2 +1,2 @@
 # yallabalagan
-First
+So this is what's it like to enter code into git...
